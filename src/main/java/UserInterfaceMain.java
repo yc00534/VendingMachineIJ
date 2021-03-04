@@ -10,6 +10,7 @@ public class UserInterfaceMain {
     String name;
     Coin coin;
 
+
     Kasse_Out kasseOut = new Kasse_Out();
     Kasse_In kasseIn = new Kasse_In();
 
